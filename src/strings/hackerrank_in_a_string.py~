@@ -1,8 +1,0 @@
-# https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem
-
-
-def is_hackerrank_subsequence(s):
-    i = 0
-    j = 0
-    target = "hackerrank"
-    while i < len(s):

@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+# https://www.hackerrank.com/challenges/gem-stones/problem
+
+
+n = int(input().strip())
+s = set([char(i) for i in range(ord("a"), ord("z") + 1)])
+for i in range(n):

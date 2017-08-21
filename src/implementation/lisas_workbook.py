@@ -2,8 +2,6 @@
 
 # https://www.hackerrank.com/challenges/lisa-workbook/problem
 
-from math import ceil
-
 n, k = (int(i) for i in input().strip().split(" "))
 t = [int(i) for i in input().strip().split(" ")]
 page = 1

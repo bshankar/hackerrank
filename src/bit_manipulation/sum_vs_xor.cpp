@@ -2,6 +2,8 @@
 typedef unsigned long ul;
 using namespace std;
 
+// https://www.hackerrank.com/challenges/sum-vs-xor
+
 int main() {
   ul n;
   cin >> n;
